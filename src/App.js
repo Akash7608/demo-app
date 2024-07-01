@@ -22,7 +22,7 @@ function App() {
     console.log("mounted");
 
     return ()=>{
-      console.log('unmounted');
+      console.log('unmountd');
     }
   } , []);
 
